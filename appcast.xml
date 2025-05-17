@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>menubar</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Sat, 17 May 2025 15:47:21 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DanielEdrisian/menubar-public/releases/download/prod/menubar.dmg" length="997027" type="application/octet-stream" sparkle:edSignature="kFQ7BWSPfTIFVHVJKkD83LtKoL/ifTWZE1ciz0M4kz8K1D42dqYs3ezBjkAGeHEVGSomaBtdM9dYjZHVePh4Bw=="/>
+        </item>
+    </channel>
+</rss>
