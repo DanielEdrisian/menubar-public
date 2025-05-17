@@ -8,7 +8,8 @@
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DanielEdrisian/menubar-public/releases/download/prod/menubar.dmg" length="997732" type="application/octet-stream" sparkle:edSignature="ylr3pZ7q+dYm93rHSDxoPCmpQ619XfF+QSYtOAdc2DB1Vbse8FBIjyn7e1cZbZ3Tike3+dJ652thAtad/6hiBw=="/>
+            <enclosure url="https://danieledrisian.github.io/menubar-public/menubar.dmg" length="997732" type="application/octet-stream" sparkle:edSignature="ylr3pZ7q+dYm93rHSDxoPCmpQ619XfF+QSYtOAdc2DB1Vbse8FBIjyn7e1cZbZ3Tike3+dJ652thAtad/6hiBw=="/>
+            <sparkle:releaseNotesLink>https://danieledrisian.github.io/menubar-public/changelog.md</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
