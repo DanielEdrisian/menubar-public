@@ -3,12 +3,12 @@
     <channel>
         <title>menubar</title>
         <item>
-            <title>1.0.4</title>
-            <pubDate>Sat, 17 May 2025 16:11:26 -0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <title>1.0.8</title>
+            <pubDate>Sat, 17 May 2025 16:29:01 -0700</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DanielEdrisian/menubar-public/releases/download/prod/menubar.dmg" length="997705" type="application/octet-stream" sparkle:edSignature="g9QctXKubdc5YmfakfXrOMkTps0FpEKfcuCxXkAgXIFxNOSNo8dlF4/jSMOqawZeEE1OS6CVQd5YL654WuwhCQ=="/>
+            <enclosure url="https://github.com/DanielEdrisian/menubar-public/releases/download/prod/menubar.dmg" length="997732" type="application/octet-stream" sparkle:edSignature="ylr3pZ7q+dYm93rHSDxoPCmpQ619XfF+QSYtOAdc2DB1Vbse8FBIjyn7e1cZbZ3Tike3+dJ652thAtad/6hiBw=="/>
         </item>
     </channel>
 </rss>
