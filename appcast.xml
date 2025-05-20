@@ -4,11 +4,11 @@
         <title>menubar</title>
         <item>
             <title>1.0.12</title>
-            <pubDate>Mon, 19 May 2025 20:22:55 -0700</pubDate>
+            <pubDate>Tue, 20 May 2025 13:20:56 -0700</pubDate>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DanielEdrisian/menubar-public/releases/download/prod/menubar.dmg" length="1072097" type="application/octet-stream" sparkle:edSignature="qyao9mBPmhu7Ow66wfMuhVTuDotiwRiOkUcY7ebmvJcrlf5YBuBvFtkgoZXTO6O7I/u3q3/VKG1evrzJ/XBsAw=="/>
+            <enclosure url="https://github.com/DanielEdrisian/menubar-public/releases/download/prod/menubar.dmg" length="1070881" type="application/octet-stream" sparkle:edSignature="sXlFjEh25cy8Yijff+3qoGiAKagrEWCjKyKFuklh0LEo6/+/x47Hm8E2zKczJqoyFlOeX4pIKGfuzRhhWmNRDg=="/>
         </item>
     </channel>
 </rss>
